@@ -2,6 +2,7 @@ title: "Voice Blending Demo"
 email: "jfrancis@kth.se"
 description: "A demonstration of blended audio files along with the original audios."
 url: "https://jandfranc.github.io" # update with your GitHub Pages URL
+theme: jekyll-theme-cayman
 remote-theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme 
